@@ -1,0 +1,263 @@
+```
+# Dependencies
+node_modules/
+
+# Build outputs
+tictactoe-react/dist/
+
+# Environment variables
+.env
+.env.local
+*.env.*
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python cache (if any Python files exist in the project)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Coverage reports
+coverage/
+htmlcov/
+.coverage
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Compressed files
+*.zip
+*.gz
+*.tar
+*.tgz
+*.bz2
+*.xz
+*.7z
+*.rar
+*.zst
+*.lz4
+*.lzh
+*.cab
+*.arj
+*.rpm
+*.deb
+*.Z
+*.lz
+*.lzo
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.tar.zst
+
+# Package lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Build system files
+target/
+.gradle/
+.mypy_cache/
+.pytest_cache/
+.nyc_output/
+istanbul/
+.jscs
+.eslintcache
+
+# Editor swap files
+*.swp
+*.swo
+
+# Local configuration
+config/local.*
+!config/default.*
+
+# Database
+*.db
+*.db-journal
+
+# Compiled binary files
+*.exe
+*.dll
+*.so
+*.a
+*.out
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+
+# C/C++
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Go
+*.exe
+*.test
+*.prof
+*.syso
+
+# Ruby
+*.gem
+*.rbc
+coverage/
+InstalledFiles
+pkg/
+spec/reports/
+test/tmp/
+test/version_tmp/
+tmp/
+
+# Rust
+target/
+Cargo.lock
+
+# .NET
+*.user
+*.suo
+*.pdb
+*.ilk
+*.obj
+*.iobj
+*.pch
+*.ipch
+*.res
+*.reloc
+*.lib
+*.appx
+*.appxbundle
+*.msix
+*.msixbundle
+
+# PHP
+vendor/
+composer.lock
+
+# Node.js
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Bower
+bower_components/
+
+# Rails
+*.rbc
+capybara-*.html
+.rspec
+public/system/
+spec/examples.txt
+spec/profiles/*
+tmp/
+vendor/bundle/
+.bundle/
+.plruby
+
+# Android
+*.apk
+*.ap_
+local.properties
+.settings/
+.loadavg
+gen/
+bin/
+gen-external-apklibs/
+.externalToolBuilders/
+.proguard/
+.metadata/
+captures/
+.dump
+
+# Eclipse
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadavg
+.recommenders
+
+# IntelliJ IDEA
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Visual Studio
+*.VC.db
+*.VC.VC.opendb
+.vs/
+
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+*.pbxuser
+*.mode1v3
+*.perspectivev3
+*.xcuserstate
+*.xccheckout
+*.moved-aside
+DerivedData
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM/
+
+# Qt Creator
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+*.moc
+*.moc.cpp
+*.qm
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows
+Desktop.ini
+$RECYCLE.BIN/
+Thumbs.db
+```
